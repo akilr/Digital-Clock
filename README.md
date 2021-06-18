@@ -8,7 +8,7 @@ Import plugin file "item_type_plugin_apex_digital_clock.sql" from Source directo
 <h2>How to Use</h2>
   1) Create a Page Item.<br>
   2) Select the type as APEX Digital Clock [Plug-in].<br>
-  4) Plug-in Attributes
+  3) Plug-in Attributes
      <ul>
         <li>There is a default clock accent/style and six other predefined clock accents/styles.</li>
         <li>There is an option where the user can provide the custom styles.</li>

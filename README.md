@@ -14,7 +14,6 @@ Import plugin file "item_type_plugin_apex_digital_clock.sql" from Source directo
         <li>There is an option where the user can provide the custom styles.</li>
         <li>The Time Format(12 hour/ 24hour) can also be chosen by the user.</li>
      </ul>
- <br>
   
 <h2>Demo</h2>
 https://apex.oracle.com/pls/apex/workspace_akil/r/demo/digital-clock-plug-in

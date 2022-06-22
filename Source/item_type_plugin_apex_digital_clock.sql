@@ -125,7 +125,7 @@ wwv_flow_api.create_plugin(
 '    ',
 '    --To create a hidden element to store the value',
 '    htp.p(''<input type="hidden" name="''||p_item.name||''" id="''||p_item.name||''" value="">'');',
-'                                        ',
+'',
 '    --To create a display only element',
 '    apex_plugin_util.print_display_only( p_item_name        => p_item.name',
 '                                        ,p_display_value    => ''''',
